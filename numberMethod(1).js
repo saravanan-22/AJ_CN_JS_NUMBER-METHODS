@@ -3,6 +3,10 @@
 // console.log(value);   // The underscore use to .
 
 let str = "saravanan, hii";
+
+
+
+
 //   console.log(num[num.length - 1]);
 //   console.log(num.at(-1));
 //   console.log(num.lastIndexOf("s"));
